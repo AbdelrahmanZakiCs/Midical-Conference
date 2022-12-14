@@ -1,0 +1,253 @@
+#title {
+    background-color: #4D99EA;
+}
+
+body {
+    font-family: 'Montserrat';
+}
+
+h1 {
+    font-family: 'Montserrat', sans-serif;
+
+    font-size: 3.5rem;
+
+    line-height: 1.5;
+
+    font-weight: 900;
+
+    color: white;
+}
+
+h2 {
+    font-family: 'Montserrat', sans-serif;
+
+    font-size: 3rem;
+
+    line-height: 1.5;
+
+    font-weight: 900;
+}
+
+
+/* Title-Image */
+
+.title-image {
+    width: 90%;
+
+    border-radius: 50px;
+}
+
+.container-fluid {
+
+    padding: 3% 15% 7%;
+}
+
+
+/* * Navigation Bar */
+
+.navbar {
+    padding: 0 0 4.5rem;
+}
+
+
+.navbar-brand {
+    font-family: 'ubuntu';
+
+    font-size: 2.5rem;
+
+    font-weight: bold;
+}
+
+.nav-item {
+    padding: 0 18px;
+}
+
+.nav-link {
+    font-size: 1.2rem;
+
+    font-family: 'Montserrat-light';
+}
+
+
+
+
+
+/* Event Speakers  */
+
+
+
+#speakers {
+    padding: 5% 15%;
+
+    text-align: center;
+
+    background-color: #fff;
+
+    position: relative;
+
+}
+
+.event_title {
+    padding: 5% 15%;
+
+    color: #4D99EA;
+
+}
+
+.img4 {
+
+    border-radius: 900px;
+}
+
+
+.img3 {
+
+    border-radius: 100px;
+}
+
+.img5 {
+
+    border-radius: 900px;
+}
+
+.slide{
+    display: none;
+}
+
+
+/* middle */
+
+hr {
+    margin-top: 50px;
+    color: #B0B0B0;
+    border-style: hidden none none;
+    border-width: 5px;
+    /* height: 2px; */
+    width: 5%;
+
+}
+
+.skill-row {
+    width: 50%;
+    margin: 100px auto 100px auto;
+    text-align: left;
+
+}
+
+.Conference{
+    display: none;
+}
+
+.Conference h2 {
+    text-align: center;
+
+    color: #4D99EA;
+}
+
+.img1 {
+    width: 25%;
+    float: left;
+    margin-right: 30px;
+    border-radius: 90px;
+}
+
+.img2 {
+    width: 25%;
+    float: right;
+    margin-left: 30px;
+}
+
+h3 {
+    color: #4D99EA;
+}
+
+/* Footer */
+
+#footer {
+
+    background-color: #fff;
+
+    text-align: center;
+
+    margin: 4% 5% 2%;
+}
+
+.footer-icon {
+
+    margin: 20px 10px;
+
+
+}
+
+.footer-text {
+
+    font-size: 1rem;
+
+    color: #8f8f8f;
+
+
+}
+
+/* Board memebers  */
+
+
+#board_members{
+    background-color: whitesmoke;
+}
+
+.board{
+    height: 150px;
+
+    width: 400px;
+
+    border: 2px solid black;
+
+    border-radius: 50px;
+
+    background-color: #4D99EA;
+
+    margin: 30px 50px;
+    
+    
+
+    
+}
+
+.memebers{
+    text-align: center;
+    color: #4D99EA;
+    margin-bottom: 20px;
+}
+
+.iconss{
+   margin: 2px 80px;
+}
+
+.iconss:hover{
+    color:lightgray;
+}
+
+.font_h4{
+    font-family: 'Montserrat', sans-serif;
+
+    font-size: 1.5rem;
+
+    line-height: 1.5;
+
+    font-weight: 900;
+
+    color: white;
+}
+
+.font_p{
+    text-align: center;
+    margin-bottom: 80px;
+}
+
+.font_p:hover{
+    color: lightgrey;
+}
+
+.board{
+    display: none;
+}

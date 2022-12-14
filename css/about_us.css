@@ -1,0 +1,171 @@
+#us {
+    background-color: #4D99EA;
+}
+
+body {
+    font-family: 'Montserrat';
+}
+
+h1 {
+    font-family: 'Montserrat', sans-serif;
+
+    font-size: 3.5rem;
+
+    line-height: 1.5;
+
+    font-weight: 900;
+
+    color: white;
+
+
+}
+
+h2 {
+    font-family: 'Montserrat', sans-serif;
+
+    font-size: 3rem;
+
+    line-height: 1.5;
+
+    font-weight: 900;
+
+
+}
+
+span::after {
+    content: '';
+    margin-top: 10px;
+    display: block;
+    width: 40px;
+    border-bottom: 6px solid white;
+
+}
+
+.row h3 {
+    /* text-align: center; */
+
+    color: white;
+}
+
+.intro {
+    padding-top: 15px;
+
+    color: white;
+
+    font-size: 1.5rem;
+
+    line-height: 1.5;
+
+    font-weight: 100;
+
+}
+
+
+/* Title-Image */
+
+.title-image {
+
+    margin-top: 200px;
+
+    width: 110%;
+
+    border-radius: 50px;
+}
+
+.container-fluid {
+
+    padding: 3% 15% 7%;
+}
+
+
+/* * Navigation Bar */
+
+.navbar {
+    padding: 0 0 4.5rem;
+}
+
+
+.navbar-brand {
+    font-family: 'ubuntu';
+
+    font-size: 2.5rem;
+
+    font-weight: bold;
+}
+
+.nav-item {
+    padding: 0 18px;
+}
+
+.nav-link {
+    font-size: 1.2rem;
+
+    font-family: 'Montserrat-light';
+}
+
+/* event Speakers */
+
+#speakers {
+    padding: 3% 15%;
+
+    text-align: center;
+
+    background-color: #fff;
+
+    position: relative;
+
+}
+
+.event_title {
+    padding: 5% 15%;
+
+    color: #4D99EA;
+
+}
+
+.img4 {
+
+    border-radius: 900px;
+}
+
+
+.img3 {
+
+    border-radius: 100px;
+}
+
+.img5 {
+
+    border-radius: 900px;
+}
+
+.slide {
+    display: none;
+}
+
+/* Footer */
+
+#footer {
+
+    background-color: #fff;
+
+    text-align: center;
+
+    margin: 4% 5% 2%;
+}
+
+.footer-icon {
+
+    margin: 20px 10px;
+
+
+}
+
+.footer-text {
+
+    font-size: 1rem;
+
+    color: #8f8f8f;
+
+
+}
