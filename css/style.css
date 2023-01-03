@@ -126,10 +126,6 @@ h2 {
     border-radius: 900px;
 }
 
-.slide{
-    display: none;
-}
-
 
 /* middle */
 
@@ -150,9 +146,7 @@ hr {
 
 }
 
-.Conference{
-    display: none;
-}
+
 
 .Conference h2 {
     text-align: center;

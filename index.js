@@ -7,11 +7,11 @@ $(document).ready(function () {
 
 
 
-$(document).ready(function () {
-    $(window).scroll(function () {
-        $(".Conference").slideDown(3000);
-    });
-});
+// $(document).ready(function () {
+//     $(window).scroll(function () {
+//         $(".Conference").slideDown(3000);
+//     });
+// });
 
 
 
